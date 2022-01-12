@@ -1,0 +1,14 @@
+C:\Users\maure\Desktop\Repos\SelectionStatements\SelectionStatementsConsoles\bin\Debug\netcoreapp3.1\SelectionStatementsConsoles.exe
+C:\Users\maure\Desktop\Repos\SelectionStatements\SelectionStatementsConsoles\bin\Debug\netcoreapp3.1\SelectionStatementsConsoles.deps.json
+C:\Users\maure\Desktop\Repos\SelectionStatements\SelectionStatementsConsoles\bin\Debug\netcoreapp3.1\SelectionStatementsConsoles.runtimeconfig.json
+C:\Users\maure\Desktop\Repos\SelectionStatements\SelectionStatementsConsoles\bin\Debug\netcoreapp3.1\SelectionStatementsConsoles.runtimeconfig.dev.json
+C:\Users\maure\Desktop\Repos\SelectionStatements\SelectionStatementsConsoles\bin\Debug\netcoreapp3.1\SelectionStatementsConsoles.dll
+C:\Users\maure\Desktop\Repos\SelectionStatements\SelectionStatementsConsoles\bin\Debug\netcoreapp3.1\SelectionStatementsConsoles.pdb
+C:\Users\maure\Desktop\Repos\SelectionStatements\SelectionStatementsConsoles\obj\Debug\netcoreapp3.1\SelectionStatementsConsoles.csproj.AssemblyReference.cache
+C:\Users\maure\Desktop\Repos\SelectionStatements\SelectionStatementsConsoles\obj\Debug\netcoreapp3.1\SelectionStatementsConsoles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maure\Desktop\Repos\SelectionStatements\SelectionStatementsConsoles\obj\Debug\netcoreapp3.1\SelectionStatementsConsoles.AssemblyInfoInputs.cache
+C:\Users\maure\Desktop\Repos\SelectionStatements\SelectionStatementsConsoles\obj\Debug\netcoreapp3.1\SelectionStatementsConsoles.AssemblyInfo.cs
+C:\Users\maure\Desktop\Repos\SelectionStatements\SelectionStatementsConsoles\obj\Debug\netcoreapp3.1\SelectionStatementsConsoles.csproj.CoreCompileInputs.cache
+C:\Users\maure\Desktop\Repos\SelectionStatements\SelectionStatementsConsoles\obj\Debug\netcoreapp3.1\SelectionStatementsConsoles.dll
+C:\Users\maure\Desktop\Repos\SelectionStatements\SelectionStatementsConsoles\obj\Debug\netcoreapp3.1\SelectionStatementsConsoles.pdb
+C:\Users\maure\Desktop\Repos\SelectionStatements\SelectionStatementsConsoles\obj\Debug\netcoreapp3.1\SelectionStatementsConsoles.genruntimeconfig.cache
